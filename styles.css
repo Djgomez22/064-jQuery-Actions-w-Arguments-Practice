@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+.homer-reply {
+    padding: 15px;
+    display: inline;
+}
+
+
+.homermad { 
+    
+    height:500px;
+    width:500px;
+    display:none;
+
+}
+
+.homerd{
+    height:200px;
+    width:200px;
+    
+display:none;
+
+}
